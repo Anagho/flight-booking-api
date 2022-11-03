@@ -1,16 +1,1 @@
-[
-  {
-    "id": 1,
-    "title": "flight to USA",
-    "time": "2pm",
-    "price": 40000,
-    "date": "20-11-2022"
-  },
-  {
-    "id": 2,
-    "title": "flight to USA",
-    "time": "2pm",
-    "price": 40000,
-    "date": "20-11-2022"
-  }
-]
+[{"id":1,"title":"flight to USA","time":"2pm","price":40000,"date":"20-11-2022"},{"id":2,"title":"flight to USA","time":"2pm","price":40000,"date":"20-11-2022"},{"id":3,"title":"flight to Australia","time":"2pm","price":40000,"date":"20-11-2022"}]
